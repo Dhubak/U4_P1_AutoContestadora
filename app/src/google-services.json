@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100494898182",
+    "project_id": "ladm-u3-firebase-ejercic-6e040",
+    "storage_bucket": "ladm-u3-firebase-ejercic-6e040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100494898182:android:e57d01c88b3c0629f97f87",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.u4_p1_autocontestadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100494898182-jn40tdu7du9s4kur76o73o74q95fdluq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBspJRcZIR973dkE_kGZL3lvZ5cGSJTd2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100494898182-jn40tdu7du9s4kur76o73o74q95fdluq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
